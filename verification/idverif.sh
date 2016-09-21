@@ -1,0 +1,1 @@
+idverif.py --idimage-align /home/mythxcq/work/lightenface/id-align/idpic --normalimage-align /home/mythxcq/work/lightenface/id-align/normalpic --model-prefix ../model/lightened_cnn/lightened_cnn --epoch 16
